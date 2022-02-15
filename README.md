@@ -11,6 +11,7 @@ In the notebook, I display both the time of the email alert and the reported tim
 
 There probably isn't enough data to do this, but I'm very curious if the likelihood of an event occuring increases earlier in the evening during the darker months of the year.
 
+Might be a good idea to include [Charlottesville police reports](https://opendata.charlottesville.org/datasets/crime-data/explore) too.
 
 
 ## Data source
