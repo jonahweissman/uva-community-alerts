@@ -5,6 +5,13 @@ When is it too late to walk home alone? I don't know, but I can show you a histo
 pip install -r requirements.txt
 jupyter lab
 ```
+In the notebook, I display both the time of the email alert and the reported time of the event.
+
+## Next Steps
+
+There probably isn't enough data to do this, but I'm very curious if the likelihood of an event occuring increases earlier in the evening during the darker months of the year.
+
+
 
 ## Data source
 
