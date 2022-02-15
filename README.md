@@ -1,6 +1,6 @@
 # UVA Community Alerts
 
-When is it too late to walk home alone? I don't know, but I can show you a histogram of the times of incidents that Timothy Longo told us all about. Check out [Analysis.ipynb] or run a local copy if you want to tinker:
+When is it too late to walk home alone? I don't know, but I can show you a histogram of the times of incidents that Timothy Longo told us all about. Check out [Analysis.ipynb](https://github.com/jonahweissman/uva-community-alerts/blob/main/Analysis.ipynb) or run a local copy if you want to tinker:
 ```
 pip install -r requirements.txt
 jupyter lab
